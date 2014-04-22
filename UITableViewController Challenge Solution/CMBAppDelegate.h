@@ -10,6 +10,7 @@
 
 @interface CMBAppDelegate : UIResponder <UIApplicationDelegate>
 
+//Comment
 @property (strong, nonatomic) UIWindow *window;
 
 @end
